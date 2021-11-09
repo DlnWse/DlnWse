@@ -1,5 +1,7 @@
 # Hey moi c'est Dylan, bienvenue sur ma page GITHUB !
-
+A Propos de moi :
+-
+Salut moi c'est Dylan j'ai 21 ans et je suis concepteur / développeur Web et d'application !
 
 Quelques Stats 
 -
