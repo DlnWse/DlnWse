@@ -2,7 +2,7 @@
 A Propos de moi :
 -
 ```
-Salut moi c'est Dylan j'ai 21 ans et je suis concepteur / développeur Web et d'application !
+Salut moi c'est Dylan j'ai 22 ans et je suis concepteur / développeur Web et d'application !
 ```
 Quelques Stats 
 -
